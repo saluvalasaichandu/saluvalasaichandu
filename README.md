@@ -23,32 +23,11 @@ I'm a DevOps Engineer passionate about building automated and scalable systems i
 
 ---
 
-## 💼 Projects
-
-| Project | Description | Tools Used |
-|--------|-------------|------------|
-| [2048 Game on Amazon EKS](https://medium.com/@saluvalasaichand/eks-deployment-2048-game-with-ingress-alb-c4e7c46d61f6) | Deployed 2048 game app on EKS with Ingress & ALB | EKS, Helm, ALB Controller |
-| [AWS Infra Automation](https://medium.com/@saluvalasaichand/create-infrastructure-in-aws-using-terraform-d90805fbebc6) | Automated AWS Infra with Terraform | Terraform, AWS, IAM |
-| [CI/CD Pipeline with Jenkins](https://github.com/saluvalasaichandu/devops-jenkins-pipeline) | Designed full Jenkins pipeline with Docker & Git | Jenkins, Docker, GitHub |
-| [Monitoring Stack (Prom + Grafana)](https://github.com/saluvalasaichandu/eks-observability-prometheus-grafana) | Observability setup for Kubernetes cluster | Prometheus, Grafana, EKS |
-
----
-
 ## 📈 GitHub Stats
 
 ![Saichandu's GitHub stats](https://github-readme-stats.vercel.app/api?username=saluvalasaichandu&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saluvalasaichandu&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=saluvalasaichandu&theme=radical)
-
----
-
-## 🐍 Contribution Snake Animation
-
-![snake gif](https://github.com/saluvalasaichandu/saluvalasaichandu/blob/output/github-contribution-grid-snake.svg)
-![snake gif](https://github.com/saluvalasaichandu/saluvalasaichandu/blob/output/github-contribution-grid-snake.svg)
-
-
-> You can generate this from [Platane's Snake GitHub Action](https://github.com/Platane/snk)
 
 ---
 
