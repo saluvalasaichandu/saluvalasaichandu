@@ -45,6 +45,8 @@ I'm a DevOps Engineer passionate about building automated and scalable systems i
 ## 🐍 Contribution Snake Animation
 
 ![snake gif](https://github.com/saluvalasaichandu/saluvalasaichandu/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/saluvalasaichandu/saluvalasaichandu/blob/output/github-contribution-grid-snake.svg)
+
 
 > You can generate this from [Platane's Snake GitHub Action](https://github.com/Platane/snk)
 
