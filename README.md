@@ -34,8 +34,8 @@ Provisioned secure, cost-efficient AWS infrastructure using Infrastructure as Co
 
 ## 📈 GitHub Stats
 
-![Saichandu's GitHub stats](https://github-readme-stats.vercel.app/api?username=saluvalasaichand&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saluvalasaichand&layout=compact&theme=radical)
+![Saichandu's GitHub stats](https://github-readme-stats.vercel.app/api?username=saluvalasaichandu&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saluvalasaichandu&layout=compact&theme=radical)
 
 ---
 
