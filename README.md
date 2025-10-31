@@ -29,13 +29,6 @@ I'm a DevOps Engineer passionate about building automated and scalable systems i
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saluvalasaichandu&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=saluvalasaichandu&theme=radical)
 
----
-
-## 📜 Certifications
-
-- ✅ AWS Certified Cloud Practitioner *(In Progress / Completed)*
-- ✅ HashiCorp Terraform Associate *(Planned)*
-- ✅ Certified Kubernetes Administrator *(CKA - In Progress)*
 
 ---
 
