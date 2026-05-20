@@ -2,7 +2,7 @@
 
 ## 🚀 DevOps Engineer | SRE | Cloud Engineer | AWS | Kubernetes | CI/CD
 
-Passionate DevOps Engineer with **4+ years of experience** in building scalable, automated, and reliable cloud infrastructure. Skilled in designing CI/CD pipelines, Kubernetes deployments, Infrastructure as Code (IaC), observability, and cloud-native solutions.
+DevOps Engineer with **4+ years of experience** in building scalable, automated, and reliable cloud infrastructure. Skilled in designing CI/CD pipelines, Kubernetes deployments, Infrastructure as Code (IaC), observability, and cloud-native solutions.
 
 🔹 Currently working on:
 - 🚀 #90DaysOfDevOps Challenge
